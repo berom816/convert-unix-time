@@ -25,7 +25,7 @@ app.get('/:entry',function(req,res){
 // app.listen(8080,'0.0.0.0');
 // console.log('listening on 8080');
 
-app.set('port',(process.env.PORT || 5000));
-app.listen(app.get('port'),function(){
-    console.log('running port',app.get('port'));
-})
+// app.set('port',(process.env.PORT || 5000));
+// app.listen(app.get('port'),function(){
+//     console.log('running port',app.get('port'));
+// })
