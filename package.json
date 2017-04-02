@@ -4,7 +4,7 @@
   "description": "deploy timestamp to heroku",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "author": "me",
   "license": "ISC",
